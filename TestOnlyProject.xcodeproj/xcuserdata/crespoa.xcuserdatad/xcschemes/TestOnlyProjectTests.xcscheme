@@ -9,20 +9,6 @@
          <BuildActionEntry
             buildForTesting = "YES"
             buildForRunning = "YES"
-            buildForProfiling = "YES"
-            buildForArchiving = "YES"
-            buildForAnalyzing = "YES">
-            <BuildableReference
-               BuildableIdentifier = "primary"
-               BlueprintIdentifier = "D584EFB01A850DB2005D78A2"
-               BuildableName = "TestOnlyProject.app"
-               BlueprintName = "TestOnlyProject"
-               ReferencedContainer = "container:TestOnlyProject.xcodeproj">
-            </BuildableReference>
-         </BuildActionEntry>
-         <BuildActionEntry
-            buildForTesting = "YES"
-            buildForRunning = "YES"
             buildForProfiling = "NO"
             buildForArchiving = "NO"
             buildForAnalyzing = "YES">
@@ -56,9 +42,9 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "D584EFB01A850DB2005D78A2"
-            BuildableName = "TestOnlyProject.app"
-            BlueprintName = "TestOnlyProject"
+            BlueprintIdentifier = "D584EFC91A850DB3005D78A2"
+            BuildableName = "TestOnlyProjectTests.xctest"
+            BlueprintName = "TestOnlyProjectTests"
             ReferencedContainer = "container:TestOnlyProject.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
@@ -72,16 +58,15 @@
       ignoresPersistentStateOnLaunch = "NO"
       debugDocumentVersioning = "YES"
       allowLocationSimulation = "YES">
-      <BuildableProductRunnable
-         runnableDebuggingMode = "0">
+      <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "D584EFB01A850DB2005D78A2"
-            BuildableName = "TestOnlyProject.app"
-            BlueprintName = "TestOnlyProject"
+            BlueprintIdentifier = "D584EFC91A850DB3005D78A2"
+            BuildableName = "TestOnlyProjectTests.xctest"
+            BlueprintName = "TestOnlyProjectTests"
             ReferencedContainer = "container:TestOnlyProject.xcodeproj">
          </BuildableReference>
-      </BuildableProductRunnable>
+      </MacroExpansion>
       <AdditionalOptions>
       </AdditionalOptions>
    </LaunchAction>
@@ -91,16 +76,15 @@
       useCustomWorkingDirectory = "NO"
       buildConfiguration = "Release"
       debugDocumentVersioning = "YES">
-      <BuildableProductRunnable
-         runnableDebuggingMode = "0">
+      <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "D584EFB01A850DB2005D78A2"
-            BuildableName = "TestOnlyProject.app"
-            BlueprintName = "TestOnlyProject"
+            BlueprintIdentifier = "D584EFC91A850DB3005D78A2"
+            BuildableName = "TestOnlyProjectTests.xctest"
+            BlueprintName = "TestOnlyProjectTests"
             ReferencedContainer = "container:TestOnlyProject.xcodeproj">
          </BuildableReference>
-      </BuildableProductRunnable>
+      </MacroExpansion>
    </ProfileAction>
    <AnalyzeAction
       buildConfiguration = "Debug">

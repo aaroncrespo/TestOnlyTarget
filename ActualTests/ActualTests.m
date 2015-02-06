@@ -1,6 +1,6 @@
 //
-//  TestOnlyProjectTests.m
-//  TestOnlyProjectTests
+//  ActualTests.m
+//  ActualTests
 //
 //  Created by Crespo, Aaron on 2/6/15.
 //  Copyright (c) 2015 Crespo, Aaron. All rights reserved.
@@ -9,11 +9,11 @@
 #import <UIKit/UIKit.h>
 #import <XCTest/XCTest.h>
 
-@interface TestOnlyProjectTests : XCTestCase
+@interface ActualTests : XCTestCase
 
 @end
 
-@implementation TestOnlyProjectTests
+@implementation ActualTests
 
 - (void)setUp {
     [super setUp];
